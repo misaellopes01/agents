@@ -8,6 +8,13 @@
       "when": 1752190023002,
       "tag": "0000_lucky_nico_minoru",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1758582336604,
+      "tag": "0001_simple_golden_guardian",
+      "breakpoints": true
     }
   ]
 }
